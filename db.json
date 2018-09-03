@@ -1,14 +1,56 @@
+[
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"ZonaTrabajoId": "10",
+"UsuarioID": "10",
+"Descripcion": "Zona 1",
+"Direccion": "Tacna Centro",
+"Latitud": "-18.009498",
+"Longitud": "-70.248621",
+"Radio": "90"
+},
+{
+"ZonaTrabajoId": "10",
+"UsuarioID": "10",
+"Descripcion": "Zona 2",
+"Direccion": "Zela 1",
+"Latitud": "-18.010488",
+"Longitud": "-70.247411",
+"Radio": "200"
+},
+{
+"ZonaTrabajoId": "10",
+"UsuarioID": "4",
+"Descripcion": "Zona 3",
+"Direccion": "Zela 2",
+"Latitud": "-18.009663",
+"Longitud": "-70.245925",
+"Radio": "90"
+},
+{
+"ZonaTrabajoId": "2",
+"UsuarioID": "3",
+"Descripcion": "Zona 0",
+"Direccion": "Zofra",
+"Latitud": "-18.079683",
+"Longitud": "-70.297222",
+"Radio": "110"
+},
+{
+"ZonaTrabajoId": "1",
+"UsuarioID": "5",
+"Descripcion": "Zona 4",
+"Direccion": "Habitat",
+"Latitud": "-18.067608",
+"Longitud": "-70.293670",
+"Radio": "120"
+},
+{
+"ZonaTrabajoId": "5",
+"UsuarioID": "10",
+"Descripcion": "Zona 5",
+"Direccion": "Natividad",
+"Latitud": "-18.013057",
+"Longitud": "-70.235950",
+"Radio": "88"
 }
+]
